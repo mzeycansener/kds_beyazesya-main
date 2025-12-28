@@ -1,2 +1,12 @@
-KDS_BEYAZESYA-MAIN/setup.sql
-KDS_BEYAZESYA-MAIN/install-db.js
+
+# Dependencies
+/node_modules
+
+# Production
+/build
+/dist
+.env
+
+# Veritabanı kurulum dosyaları
+setup.sql
+install-db.js
